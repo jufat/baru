@@ -1,0 +1,6 @@
+{
+  "name": "Ju-Fat POS",
+  "description": "Aplikasi Kasir POS Modern Toserba & Agensi: Kasir ATK, PPOB, Transfer Bank/E-Wallet, Service HP, Manajemen Stok & HPP, Buku Kas Harian, Impor/Ekspor Excel, dan kontrol akses Owner & Kasir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
